@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://achrafbenabdalla.github.io/" target="blank">
+ <a href="https://achrafbenabdalla.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="achrafbenabdalla" />
  </a>
  <a href="https://www.linkedin.com/in/achraf-ben-abdalah-a26815245/" target="_blank">
