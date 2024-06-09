@@ -38,10 +38,10 @@
 </p>
 
 <p align="center">
- <a href="(https://achrafbenabdalla.github.io/)" target="blank">
+ <a href="https://achrafbenabdalla.github.io/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="achrafbenabdalla" />
  </a>
- <a href="(https://www.linkedin.com/in/achraf-ben-abdalah-a26815245/)" target="_blank">
+ <a href="https://www.linkedin.com/in/achraf-ben-abdalah-a26815245/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="" target="_blank">
@@ -50,7 +50,7 @@
  <a href="https://www.instagram.com/achrafbenabdalah/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="(https://www.facebook.com/Achraf.b/)" target="_blank">
+ <a href="https://www.facebook.com/Achraf.b/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
