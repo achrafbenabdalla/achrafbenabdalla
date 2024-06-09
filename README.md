@@ -17,7 +17,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
 
 <!-- Intro  -->
 <h3 align="center">
@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="[https://www.google.com/search?q=Al+Siam](https://www.linkedin.com/in/achraf-ben-abdalah-a26815245/)">「 Google Me 」</a>
+    <a href="[https://www.google.com/search?q=Al+Siam]">「 Google Me 」</a>
     <br>
     「 I am Student in Cloud DevOps Engineering | Passionate about automation and continuous deployment  」
     <br>
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="[https://alsiam.com](https://achrafbenabdalla.github.io/)" target="blank">
+ <a href="(https://achrafbenabdalla.github.io/)" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="achrafbenabdalla" />
  </a>
  <a href="(https://www.linkedin.com/in/achraf-ben-abdalah-a26815245/)" target="_blank">
